@@ -1,0 +1,13 @@
+.container {
+  width: 70%;
+  margin: 50px 110px 50px 150px;
+}
+
+.container p {
+  text-align: justify;
+}
+
+#credits {
+  text-align: center;
+  font-size: 14px;
+}
